@@ -41,7 +41,7 @@ p {
 }
 
 ul li {
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 10px;
 }
 
@@ -353,7 +353,7 @@ ul li {
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 30px;
+  font-size: 48px;
 }
 .site-header .intro p {
   font-size: 20px;
@@ -434,7 +434,8 @@ ul li {
  */
 .schedule-box {
   position: relative;
-  background-color: #000;
+  /* background-color: #000; */
+  background: linear-gradient(238.49deg, rgba(110, 180, 63, 0.6) 3.49%, rgba(110, 180, 63, 0) 100%), linear-gradient(0deg, #24BCEE, #24BCEE);
   color: #fff;
   text-align: center;
   padding: 50px 0;
@@ -518,7 +519,8 @@ ul li {
 }
 .faq .panel-default > .panel-heading {
   color: #FFF;
-  background-color: #b31b1b;
+  /* background-color: #b31b1b; */
+  background: linear-gradient(238.49deg, rgba(110, 180, 63, 0.6) 3.49%, rgba(110, 180, 63, 0) 100%), linear-gradient(0deg, #24BCEE, #24BCEE);
   border-color: #000;
   border-radius: 0;
   padding: 0;
