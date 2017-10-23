@@ -13,7 +13,7 @@ html {
 body {
   color: #4e4e4e;
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 300;
   line-height: 1.6;
   position: relative;
@@ -349,15 +349,15 @@ ul li {
 }
 .site-header .intro h2 {
   margin-top: 0px;
-  font-size: 25px;
+  font-size: 4vw;
   font-weight: 300;
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 48px;
+  font-size: 5.5vw;
 }
 .site-header .intro p {
-  font-size: 20px;
+  font-size: 3vw;
   margin-bottom: 10px;
   font-weight: 300;
 }
