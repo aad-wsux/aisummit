@@ -354,8 +354,20 @@ ul li {
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 5.5vw;
+  font-size: 6vw;
 }
+@media (min-width: 768px) {
+  .site-header .intro h2 {
+    margin-top: 0px;
+    font-size: 2rem;
+    font-weight: 300;
+  }
+  .site-header .intro h1 {
+    margin-top: 0px;
+    font-size: 3rem;
+  }
+}
+
 .site-header .intro p {
   font-size: 3vw;
   margin-bottom: 10px;
