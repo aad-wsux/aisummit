@@ -299,8 +299,9 @@ ul li {
 
 .site-branding {
   float: left;
-  margin-top: 13px;
+  margin-top: 10px;
   margin-left: 10px;
+  margin-bottom: 5px;
 }
 .site-branding .logo {
   color: #fff;
@@ -381,8 +382,9 @@ ul li {
   }
 
   .site-branding {
-    margin-top: 13px;
+    margin-top: 10px;
     margin-left: 0;
+    margin-bottom: 5px;
   }
 }
 /* 
