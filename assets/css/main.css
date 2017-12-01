@@ -1,7 +1,7 @@
 /* 
  * 1. Google Font
  */
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700);
 /* 
  * 2.0 Global Style
  */
@@ -346,7 +346,7 @@ ul li {
   padding: 0 15px;
   display: table-cell;
   vertical-align: middle;
-  height: 100vh;
+  height: 10vh;
 }
 .site-header .intro h2 {
   margin-top: 0px;
@@ -354,7 +354,6 @@ ul li {
   font-weight: 300;
 }
 .site-header .intro h1 {
-  margin-top: 0px;
   font-size: 6vw;
 }
 .site-header .intro h4 {
@@ -368,9 +367,17 @@ ul li {
 .form-group label{
   font-size: 4vw;
 }
+.form-group input{
+	color: #000000;
+	height:40px; 
+	width: 45%; 
+	margin-left:10px; 
+	float: left;
+}
 .site-header .intro .container{
   background-color:rgba(100, 100, 100, 0.5);
   padding: 20px;
+  z-index: 100;
 }
 .form-group{
   min-height: 40px;
