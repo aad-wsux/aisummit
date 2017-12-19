@@ -28,6 +28,14 @@
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" href="assets/css/main.css">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111430295-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-111430295-1');
+	</script>
 </head>
 <body data-spy="scroll" data-target="#site-nav">
     <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
@@ -178,6 +186,7 @@
 Skidmore College, Syracuse University, Union College, and Virginia Tech, and supported by an award from the CASE District II Venture Capital Fund.</p>
  
 <p>AI’s moment has arrived. Thanks to innovations such as self-driving cars and to speech-based interfaces like Apple’s Siri and Amazon’s Alexa, AI is finding its way into applications that seem less exotic and more accessible. The fusion of massive data sets, behavioral algorithms, predictive algorithms, new types of user interfaces, and machine learning is opening up new horizons of possibility for the practical application of AI. Many emerging tools and techniques have the potential to change core engagement, fundraising, and communications functions of institutional advancement offices.</p>
+					<p>Questions? Please e-mail <a href="mailto:eag237@cornell.edu?subject=AI%20Summit%20Questions">Emily Gustafson</a>.</p>
 
                     <!-- figure>
                         <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
@@ -191,11 +200,11 @@ Skidmore College, Syracuse University, Union College, and Virginia Tech, and sup
 
                     <ul class="list-arrow-right">
 
-                        <li>Provide attendees with an understanding of basic AI concepts, the current state of the field, and emerging trends. Attendees will leave the summit with the knowledge needed to follow developments in AI from an informed perspective – recognizing opportunities and decoding the jargon that pervades media coverage and marketing pitches.</li>
-                        <li>Identify and discuss advancement functions that might be enhanced or transformed by AI. These discussions will form the nucleus of a community of advancement practitioners that would grow over time, organizing itself around use cases of interest to participants.</li>
+                        <li>Provide attendees with an understanding of basic AI concepts, the current state of the field, and emerging trends. Attendees will leave the summit with the knowledge needed to follow developments in AI from an informed perspective – recognizing opportunities and decoding the jargon that pervades media coverage and marketing materials.</li>
+                        <li>Identify and discuss advancement functions that might be enhanced or transformed by AI. These discussions will form the nucleus of a community of advancement practitioners that will grow over time, organizing itself around use cases of interest to participants.</li>
                     </ul>
                     
-                    <p>The summit is open to institutions in CASE District II, as well as interested members from other CASE districts.</p>
+                    <p>The summit is open to institutions in CASE District II, as well as interested staff from institutions in other CASE districts and technology partners.</p>
 
                 </div><!-- /.col-sm-6 -->
             </div><!-- /.row -->
