@@ -16,8 +16,9 @@ body {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.6;
-  position: relative;
-  -webkit-font-smoothing: antialiased;
+  /*position: relative;*/
+  -webkit-font-smoothing: antialiased;   
+  overflow-x: hidden;
 }
 
 a {
@@ -487,7 +488,7 @@ ul li {
  * 6.6 Section: Schedule
  */
 .schedule-box {
-  position: relative;
+  /*position: relative;*/
   /* background-color: #000; */
   background: linear-gradient(238.49deg, rgba(110, 180, 63, 0.6) 3.49%, rgba(110, 180, 63, 0) 100%), linear-gradient(0deg, #24BCEE, #24BCEE);
   color: #fff;
@@ -513,39 +514,37 @@ ul li {
 }
 .partner .partner-box {
   display: block;
-  opacity: 0.3;
+  opacity: 1;
   height: 150px;
   width: 150px;
   margin: 25px auto;
-  -webkit-transition: 0.5s all linear;
-          transition: 0.5s all linear;
+/*  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;*/
 }
-.partner .partner-box:hover {
+/*.partner .partner-box:hover {
   opacity: 1;
-}
+}*/
 .partner .partner-box-1 {
-  background: url(../images/partner/partner-1.png) no-repeat center center/contain;
+	background: url(../images/partner/IthacaCollege.png) no-repeat center center/contain;
+  
 }
 .partner .partner-box-2 {
-  background: url(../images/partner/partner-2.png) no-repeat center center/contain;
+	background: url(../images/partner/Keuka.png) no-repeat center center/contain;  
 }
 .partner .partner-box-3 {
-  background: url(../images/partner/partner-3.png) no-repeat center center/contain;
+  background: url(../images/partner/Skidmore.svg) no-repeat center center/contain;
 }
 .partner .partner-box-4 {
-  background: url(../images/partner/partner-4.png) no-repeat center center/contain;
+  background: url(../images/partner/SYRACUSE.svg) no-repeat center center/contain;
 }
 .partner .partner-box-5 {
-  background: url(../images/partner/partner-5.png) no-repeat center center/contain;
+  background: url(../images/partner/UnionCollege.svg) no-repeat center center/contain;
 }
 .partner .partner-box-6 {
-  background: url(../images/partner/partner-6.png) no-repeat center center/contain;
+  background: url(../images/partner/VirginiaTech.png) no-repeat center center/contain;
 }
 .partner .partner-box-7 {
-  background: url(../images/partner/partner-7.png) no-repeat center center/contain;
-}
-.partner .partner-box-8 {
-  background: url(../images/partner/partner-8.png) no-repeat center center/contain;
+  
 }
 
 /* 

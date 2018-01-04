@@ -44,7 +44,7 @@
 
                 <!-- logo -->
                 <div class="site-branding">
-                    <a class="logo" href="#">
+                    <a class="logo" href="http://www.cornell.edu/">
                         
                         <!-- logo image  -->
                         <img src="assets/images/cornell-reduced-white.svg" alt="Cornell Logo" height="45px;">
@@ -66,12 +66,12 @@
                     <!-- navigation menu -->
                     <li class="active"><a data-scroll href="#">AI in Advancement Summit</a></li>
                     <li><a data-scroll href="#about">About</a></li>
-                    <li><a data-scroll href="#speakers">Speakers</a></li>              
+<!--                    <li><a data-scroll href="#speakers">Speakers</a></li>              -->
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
                     <li><a data-scroll href="#sponsors">Sponsors</a></li>
-                    <li><a data-scroll href="#faq">FAQ</a></li>
-                    <li><a data-scroll href="#photos">Photos</a></li>
+<!--                    <li><a data-scroll href="#faq">FAQ</a></li>-->
+<!--                    <li><a data-scroll href="#photos">Photos</a></li>-->
                     <li><a data-scroll href="#location">Location</a></li>
                 
                 </ul>
@@ -89,7 +89,7 @@
             <p>&nbsp;</p>
 			<h2>Registration is open</h2>
 			<p>$75 for the day, including continental breakfast and lunch.</p>
-			<a class="btn btn-primary" style="padding: 12px 20px;" data-scroll href="#registration" href="https://securelb.imodules.com/s/1717/alumni/event.aspx?sid=1717&gid=2&pgid=11470&cid=20055">Register Now</a> 
+			<a class="btn btn-primary" style="padding: 12px 20px;"  href="https://securelb.imodules.com/s/1717/alumni/event.aspx?sid=1717&gid=2&pgid=11470&cid=20055">Register Now</a> 
         
         </div>
     </header>
@@ -160,7 +160,7 @@
         </div><!-- container -->
     </section>
 
-    <section id="speakers" class="section speakers">
+    <!--- <section id="speakers" class="section speakers">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -189,8 +189,8 @@
                             <li><a href=""><i class="ion-social-googleplus"></i></a></li>
                         </ul>
 
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
+                    </div> 
+                </div> 
 
                 <div class="col-md-4">
                     <div class="speaker">
@@ -210,8 +210,8 @@
                             <li><a href=""><i class="ion-social-googleplus"></i></a></li>
                         </ul>
 
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
+                    </div>
+                </div>
 
                 <div class="col-md-4">
                     <div class="speaker">
@@ -231,11 +231,11 @@
                             <li><a href=""><i class="ion-social-googleplus"></i></a></li>
                         </ul>
 
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
+    </section>  --->
 
     <!--<section id="registration" class="section registration">
         <div class="container">
@@ -306,7 +306,7 @@
         </div>
     </section>-->
 
-    <section id="contribution" class="section bg-image-2 contribution">
+<!--    <section id="contribution" class="section bg-image-2 contribution">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -318,7 +318,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <section id="schedule" class="section schedule">
         <div class="container">
@@ -327,6 +327,7 @@
                     <h3 class="section-title">Event Schedule</h3>
                 </div>
             </div>
+			<!--- hide the old card style as it doesn't work with long description>
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="schedule-box">
@@ -423,6 +424,115 @@
                     </div>
 				</div> 
             </div>
+			<--->
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					   <div class="time">
+                            <time datetime="08:00">8 a.m.</time> - <time datetime="9:30">9:30 a.m.</time>
+                        </div>
+                        <h3>Registration &amp; breakfast</h3>
+                        <p>Ballroom Foyer</p>
+				</div>
+				<div class="col-sm-9">
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="09:30">9:30 a.m.</time> - <time datetime="09:45">9:45 a.m.</time>
+                        </div>
+                        <h3>Welcome and opening remarks from President&nbsp;Pollack</h3>
+                        <p>Carrier Ballroom</p>
+				</div>
+				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">We couldn't be happier that Cornell's 14th President is a computer scientist with research expertise in artificial intelligence.She earned her master’s (1984) and Ph.D. (1986) degrees in the Department of Computer and Information Science at the University of Pennsylvania, writing a doctoral dissertation on natural-language processing by computers. She subsequently conducted research and published widely on automated planning, temporal reasoning, and constraint satisfaction. A particular focus of her work has been the design of intelligent technology to assist people with cognitive impairment, a topic on which she testified before the United States Senate Subcommittee on Aging in 2004.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="09:45">9:45 a.m.</time> - <time datetime="10:45">10:45 a.m.</time>
+                        </div>
+                        <h3>Keynote: Artificial Intelligence 101 with David B. Shmoys</h3>
+                        <p>Carrier Ballroom</p>
+				</div>
+				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">Speaker: David B. Shmoys, Laibe/Acheson Professor of Business Management &nbsp; Leadership Studies, School of Operations Research and Information Engineering, Department of Computer Science</p>
+					<p style="padding:12px; text-align:left;">What is AI? Where did it come from? How did we get to where we are now? Why is AI beginning to boom now? This session provides a general background for AI, giving attendees a common conceptual framework and vocabulary.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="10:45">10:45 a.m.</time> - <time datetime="11:00">11 a.m.</time>
+                        </div>
+                        <h3>Break</h3>
+                        <p>Ballroom Foyer (Light refreshments/coffee, tea, water)</p>
+				</div>
+				<div class="col-sm-9">
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="11:00">11 a.m.</time> - <time datetime="12:00">12 Noon</time>
+                        </div>
+                        <h3>Panel with industry/academic speakers</h3>
+                        <p>Carrier Ballroom</p>
+				</div>
+				<div class="col-sm-9">
+						<p style="padding:12px; text-align:left;">Moderator: Kim Infanti, Executive Director, Digital Engagement/Comms, Syracuse University Office of Alumni Engagement</p>
+					<p style="padding:12px; text-align:left;">This panel with industry and academic experts will provide concrete, clear examples of AI as applied to industry, academia, or the consumer marketplace.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="12:00">12 Noon</time> - <time datetime="13:00">1 p.m.</time>
+                        </div>
+                        <h3>Lunch with talk</h3>
+                        <p>Carrier Ballroom</p>
+				</div>
+				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">Speaker: Adam Martel, CEO and Co-founder, Gravyty</p>
+					<p style="padding:12px; text-align:left;">Over lunch, we'll hear from a former major gifts fundraiser at Babson College who saw that AI could transform the scope and impact of his work.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="13:00">1 p.m.</time> - <time datetime="15:00">3:00 p.m.</time>
+                        </div>
+                        <h3>Breakout workshops by Advancement program area</h3>
+                        <p>Statler breakout rooms</p>
+				</div>
+				<div class="col-sm-9">
+						<p style="padding:12px; text-align:left;">How might AI impact the work of the various Advancement program areas? In theese facilitated workshops, we'll take the concepts and terms covered in the morning sessions and apply them to our work in fundraising, alumni relations, and communications.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="15:00">3:00 p.m.</time> - <time datetime="15:30">3:30 p.m.</time>
+                        </div>
+                        <h3>Wrap up and next steps</h3>
+                        <p>Carrier Ballroom</p>
+				</div>
+				<div class="col-sm-9">
+						<p style="padding:12px; text-align:left;">Wrapping up the day, we'll share observations from the workshops and outline plans to keep the conversation going online.</p>
+				</div>
+			</div>
+			<div class="row schedule-box">
+				<div class="col-sm-3">
+					<div class="time">
+                            <time datetime="15:45">3:45 p.m.</time> - <time datetime="17:00">5:00 p.m.</time>
+                        </div>
+                        <h3>Cocktail reception</h3>
+                        <p>Regents Lounge</p>
+				</div>
+				<div class="col-sm-9">
+				</div>
+			</div>
     </section>
 
     <section id="partner" class="section partner">
@@ -457,9 +567,9 @@
                 <div class="col-sm-3">
                     <a class="partner-box partner-box-7"></a>
                 </div>
-                <div class="col-sm-3">
+                <!--<div class="col-sm-3">
                     <a class="partner-box partner-box-8"></a>
-                </div>
+                </div>-->
             </div>   
     </section>
         
@@ -501,7 +611,7 @@
             </div>   
     </section>
 
-    <section id="faq" class="section faq">
+    <!--<section id="faq" class="section faq">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -577,9 +687,9 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </section>-->
 
-    <section id="photos" class="section photos">
+   <!-- <section id="photos" class="section photos">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -629,7 +739,7 @@
                 </div>
             </div>            
         </div>
-    </section>
+    </section>-->
 
     <section id="location" class="section location">
         <div class="container">
@@ -637,15 +747,17 @@
                 <div class="col-sm-3">
                     <h3 class="section-title">Event Location</h3>
                     <address>
-                        <p><h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4><br><br>130 Statler Drive, Ithaca, NY 14850
+                        <p><h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
+						130 Statler Drive, Ithaca, NY 14850
                         <br>Reservations: 1(800)541-2501
                         <br>Fax: 607-257-6432
                         <br>Email: statler_reserve@cornell.edu
-						<br>Block Dates: 2/15-2/17
-						<br>Block Rate: $212.00 per night
-						<br>Block Cutoff: Thursday, January 25th, 2018
 						</p>
                     </address>
+				    <h4>Hotel Block</h4>
+					<p>Block Dates: 2/15-2/17
+						<br>Block Rate: $212.00 per night
+						<br>Block Cutoff: Thursday, January 25th, 2018</p>
 				    <h4>Parking</h4>
 					<p>Guests staying at the Statler can valet their car. Other guests can park in <a href="https://www.cornell.edu/visit/parking/#general">visitor areas</a> on campus.</p>
                 </div>
