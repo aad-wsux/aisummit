@@ -70,7 +70,7 @@
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
                     <li><a data-scroll href="#sponsors">Sponsors</a></li>
-<!--                    <li><a data-scroll href="#faq">FAQ</a></li>-->
+                    <li><a data-scroll href="#faq">FAQ</a></li>
 <!--                    <li><a data-scroll href="#photos">Photos</a></li>-->
                     <li><a data-scroll href="#location">Location</a></li>
                 
@@ -324,7 +324,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Event Schedule</h3>
+                    <h3 class="section-title">Schedule</h3>
                 </div>
             </div>
 			<!--- hide the old card style as it doesn't work with long description>
@@ -539,7 +539,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Summit Partners</h3>
+                    <h3 class="section-title">Partners</h3>
                 </div>
             </div>
             <div class="row">
@@ -577,45 +577,45 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Summit sponsors</h3>
+                    <h3 class="section-title">sponsors</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-1"></a>
+                    <a class="partner-box"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-2"></a>
+                    <a class="partner-box "></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-3"></a>
+                    <a class="partner-box "></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-4"></a>
+                    <a class="partner-box "></a>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-5"></a>
+                    <a class="partner-box "></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-6"></a>
+                    <a class="partner-box "></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-7"></a>
+                    <a class="partner-box "></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-8"></a>
+                    <a class="partner-box "></a>
                 </div>
             </div>   
     </section>
 
-    <!--<section id="faq" class="section faq">
+    <section id="faq" class="section faq">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Event FAQs</h3>
+                    <h3 class="section-title">FAQs</h3>
                 </div>
             </div>
             <div class="row">
@@ -687,7 +687,7 @@
                     </div>
                 </div>
             </div>
-    </section>-->
+    </section>
 
    <!-- <section id="photos" class="section photos">
         <div class="container">
@@ -745,7 +745,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <h3 class="section-title">Event Location</h3>
+                    <h3 class="section-title">Location</h3>
                     <address>
                         <p><h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
 						130 Statler Drive, Ithaca, NY 14850
