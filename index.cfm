@@ -69,7 +69,7 @@
 <!--                    <li><a data-scroll href="#speakers">Speakers</a></li>              -->
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
-                    <li><a data-scroll href="#sponsors">Sponsors</a></li>
+                    <!--<li><a data-scroll href="#sponsors">Sponsors</a></li>-->
                     <!--<li><a data-scroll href="#faq">FAQ</a></li>-->
 <!--                    <li><a data-scroll href="#photos">Photos</a></li>-->
                     <li><a data-scroll href="#location">Location</a></li>
@@ -518,7 +518,7 @@
                         <p>Statler breakout rooms</p>
 				</div>
 				<div class="col-sm-9">
-						<p style="padding:12px; text-align:left;">How might AI impact work in various advancement program areas? Each workshop will be facilitated by an industry professional. Learn how to apply concepts covered in the morning sessions to your work. Join discussions that focus in on fundraising, alumni relations, and communications.</p>
+						<p style="padding:12px; text-align:left;">How might AI impact work in various advancement program areas? Each workshop will be co-facilitated by an industry professional and an advancement professional. Learn how to apply concepts covered in the morning sessions to your work. Join discussions that focus in on fundraising, alumni relations, and communications.</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -587,7 +587,7 @@
             </div>   
     </section>
         
-    <section id="sponsors" class="section partner">
+  <!--  <section id="sponsors" class="section partner">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -623,7 +623,7 @@
                     <a class="partner-box "></a>
                 </div>
             </div>   
-    </section>
+    </section>  -->
 
     <!-- <section id="faq" class="section faq">
         <div class="container">
