@@ -70,7 +70,7 @@
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
                     <li><a data-scroll href="#sponsors">Sponsors</a></li>
-                    <li><a data-scroll href="#faq">FAQ</a></li>
+                    <!--<li><a data-scroll href="#faq">FAQ</a></li>-->
 <!--                    <li><a data-scroll href="#photos">Photos</a></li>-->
                     <li><a data-scroll href="#location">Location</a></li>
                 
@@ -99,13 +99,13 @@
             <div class="row">
                 <div class="col-sm-6">
 
-                    <h3 class="section-title">About Us</h3>
+                    <h3 class="section-title">About the summit</h3>
 
-                    <p>Hosted by Cornell University's Division of <a href="https://alumni.cornell.edu/" target="_blank">Alumni Affairs and Development,</a> in partnership with Ithaca College, Keuka College,
-                        Skidmore College, Syracuse University, Union College, and Virginia Tech, and supported by an award from the CASE District II Venture Capital Fund.</p>
-
-                    <p>AI’s moment has arrived. Thanks to innovations such as self-driving cars and to speech-based interfaces like Apple’s Siri and Amazon’s Alexa, AI is finding its way into applications that seem less exotic and more accessible. The fusion of massive data sets, behavioral algorithms, predictive algorithms, new types of user interfaces, and machine learning is opening up new horizons of possibility for the practical application of AI. Many emerging tools and techniques have the potential to change core engagement, fundraising, and communications functions of institutional advancement offices.</p>
-                    <p>Questions? Please e-mail <a href="mailto:eag237@cornell.edu?subject=AI%20Summit%20Questions">Emily Gustafson</a>.</p>
+                    <p>AI’s moment has arrived. Cars are driving themselves. We're speaking directly to interfaces like Apple’s Siri and Amazon’s Alexa. AI is finding its way into applications that seem less exotic and more accessible.
+ 					</p>
+					<p>Technologies are fusing massive data sets with behavioral and predictive algorithms. New user interfaces are being powered by machine learning. These innovations are creating exciting and practical applications for AI. Emerging tools are sure to change core engagement, fundraising, and communications functions in advancement offices.</p>
+					<p>The AI in Advancement Summit is hosted by Cornell University's Division of  <a href="https://alumni.cornell.edu/" target="_blank">Alumni Affairs and Development</a>. Cornell has partnered with Ithaca College, Keuka College, Skidmore College, Syracuse University, Union College, and Virginia Tech to make this event possible. The summit is supported by an award from the CASE District II Venture Capital Fund.</p>
+                    <p>Have a question about the summit? Email <a href="mailto:eag237@cornell.edu?subject=AI%20Summit%20Questions">Emily Gustafson</a>.</p>
                     <!-- figure>
                         <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
                     </figure -->
@@ -114,15 +114,19 @@
 
                 <div class="col-sm-6">
 
-                    <h3 class="section-title multiple-title">Summit goals</h3>
+                    <h3 class="section-title multiple-title">What to expect</h3>
 
                     <ul class="list-arrow-right">
 
-                        <li>Provide attendees with an understanding of basic AI concepts, the current state of the field, and emerging trends. Attendees will leave the summit with the knowledge needed to follow developments in AI from an informed perspective – recognizing opportunities and decoding the jargon that pervades media coverage and marketing materials.</li>
-                        <li>Identify and discuss advancement functions that might be enhanced or transformed by AI. These discussions will form the nucleus of a community of advancement practitioners that will grow over time, organizing itself around use cases of interest to participants.</li>
+                        <li>As an attendee, you'll gain an understanding of basic AI concepts. You'll learn about the current state of the field and explore emerging trends.</li>
+                        <li>Leave the summit with the knowledge you need to follow developments in AI from an informed perspective. You'll begin recognizing opportunities. And, you'll have the skills to decode jargon that pervades media coverage and marketing materials.
+						</li>
+						<li>
+							During the summit, you can join breakout discussions. Help us identify advancement functions that might be enhanced or transformed by AI. Breakout groups are intended to simply jumpstart these conversations. Groups will form the nucleus of a community of professionals that will grow over time.
+						</li>
                     </ul>
 
-                    <p>The summit is open to institutions in CASE District II, as well as interested staff from institutions in other CASE districts and technology partners.</p>
+                    <p>The summit is open to CASE District II members, as well as staff from other CASE member institutions and technology partners.</p>
 
                 </div><!-- /.col-sm-6 -->
             </div><!-- /.row -->
@@ -345,7 +349,7 @@
                         </div>
                         <h3>Welcome and opening remarks from President&nbsp;Pollack</h3>
                         <p>Carrier Ballroom</p>
-												<p style="padding:12px;">We couldn't be happier that Cornell's 14th President is a computer scientist with research expertise in artificial intelligence.She earned her master’s (1984) and Ph.D. (1986) degrees in the Department of Computer and Information Science at the University of Pennsylvania, writing a doctoral dissertation on natural-language processing by computers. She subsequently conducted research and published widely on automated planning, temporal reasoning, and constraint satisfaction. A particular focus of her work has been the design of intelligent technology to assist people with cognitive impairment, a topic on which she testified before the United States Senate Subcommittee on Aging in 2004.</p>
+												<p style="padding:12px;">We couldn't be happier that Cornell's 14th President is a computer scientist with research expertise in artificial intelligence.e earned her master’s (1984) and Ph.D. (1986) degrees in the Department of Computer and Information Science at the University of Pennsylvania, writing a doctoral dissertation on natural-language processing by computers. She subsequently conducted research and published widely on automated planning, temporal reasoning, and constraint satisfaction. A particular focus of her work has been the design of intelligent technology to assist people with cognitive impairment, a topic on which she testified before the United States Senate Subcommittee on Aging in 2004.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
@@ -430,10 +434,13 @@
 					   <div class="time">
                             <time datetime="08:00">8 a.m.</time> - <time datetime="9:30">9:30 a.m.</time>
                         </div>
-                        <h3>Registration &amp; breakfast</h3>
+                        <h3>Registration &amp; Breakfast</h3>
                         <p>Ballroom Foyer</p>
 				</div>
 				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">
+						Arrive on campus with plenty of time for breakfast and pre-summit banter. Registration and all sessions will take place at The Statler Hotel. Located in the heart of Cornell's campus, The Statler provides luxury accommodations. Onsite parking is available for overnight guests. Those arriving Friday morning should note the campus <a href="https://www.cornell.edu/about/maps/index.cfm?loc=Statler%20Hotel&zoom=16" target="_blank">ParkMobile parking lots</a>.  
+					</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -441,11 +448,11 @@
 					<div class="time">
                             <time datetime="09:30">9:30 a.m.</time> - <time datetime="09:45">9:45 a.m.</time>
                         </div>
-                        <h3>Welcome and opening remarks from President&nbsp;Pollack</h3>
+                        <h3>Welcome &amp; Opening Remarks from President Pollack</h3>
                         <p>Carrier Ballroom</p>
 				</div>
 				<div class="col-sm-9">
-					<p style="padding:12px; text-align:left;">We couldn't be happier that Cornell's 14th President is a computer scientist with research expertise in artificial intelligence.She earned her master’s (1984) and Ph.D. (1986) degrees in the Department of Computer and Information Science at the University of Pennsylvania, writing a doctoral dissertation on natural-language processing by computers. She subsequently conducted research and published widely on automated planning, temporal reasoning, and constraint satisfaction. A particular focus of her work has been the design of intelligent technology to assist people with cognitive impairment, a topic on which she testified before the United States Senate Subcommittee on Aging in 2004.</p>
+					<p style="padding:12px; text-align:left;">We couldn't be happier to open the summit with a few words Cornell's President, Martha Pollack. President Pollack is a computer scientist with research expertise in artificial intelligence. She earned Masters and Ph.D. degrees from the University of Pennsylvania.  Her doctoral dissertation explores natural-language processing by computers. She has published research on automated planning, temporal reasoning, and constraint satisfaction. A special focus of her work has been the design of intelligent technology to assist people with cognitive impairments, a topic on which she testified before the US Senate Subcommittee on Aging in 2004.</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -453,12 +460,12 @@
 					<div class="time">
                             <time datetime="09:45">9:45 a.m.</time> - <time datetime="10:45">10:45 a.m.</time>
                         </div>
-                        <h3>Keynote: Artificial Intelligence 101 with David B. Shmoys</h3>
+                        <h3>Morning Keynote: Artificial Intelligence 101</h3>
                         <p>Carrier Ballroom</p>
 				</div>
 				<div class="col-sm-9">
-					<p style="padding:12px; text-align:left;">Speaker: David B. Shmoys, Laibe/Acheson Professor of Business Management &nbsp; Leadership Studies, School of Operations Research and Information Engineering, Department of Computer Science</p>
-					<p style="padding:12px; text-align:left;">What is AI? Where did it come from? How did we get to where we are now? Why is AI beginning to boom now? This session provides a general background for AI, giving attendees a common conceptual framework and vocabulary.</p>
+					<p style="padding:12px; text-align:left;">What is Artificial Intelligence? Where did it come from? How did we get to where we are now? Why is AI beginning to boom? This opening keynote will cover a general background of AI. Attendees will start the day having gained a common conceptual framework and vocabulary.</p>
+					<p style="padding:12px; text-align:left;">David B. Shmoys is the Laibe/Acheson Professor of Business Management and Leadership Studies in the Department of Computer Science at the School of Operations Research and Information Engineering here at Cornell. </p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -467,9 +474,12 @@
                             <time datetime="10:45">10:45 a.m.</time> - <time datetime="11:00">11 a.m.</time>
                         </div>
                         <h3>Break</h3>
-                        <p>Ballroom Foyer (Light refreshments/coffee, tea, water)</p>
+                        <p>Ballroom Foyer</p>
 				</div>
 				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">
+						Let all that new knowledge soak in along with a few snacks. Join us for a quick break with light refreshments, coffee, and tea. 
+					</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -477,12 +487,13 @@
 					<div class="time">
                             <time datetime="11:00">11 a.m.</time> - <time datetime="12:00">12 Noon</time>
                         </div>
-                        <h3>Panel with industry/academic speakers</h3>
+                        <h3>Industry Panel</h3>
                         <p>Carrier Ballroom</p>
 				</div>
 				<div class="col-sm-9">
-						<p style="padding:12px; text-align:left;">Moderator: Kim Infanti, Executive Director, Digital Engagement/Comms, Syracuse University Office of Alumni Engagement</p>
-					<p style="padding:12px; text-align:left;">This panel with industry and academic experts will provide concrete, clear examples of AI as applied to industry, academia, or the consumer marketplace.</p>
+						<p style="padding:12px; text-align:left;">Our panel of industry and academic experts will provide concrete examples of AI in practice. Hear how AI works in various industries, academia, and the consumer marketplace.</p>
+					<p style="padding:12px; text-align:left;">We’re fortunate to have our panel moderated by Kim Infanti, executive director of digital engagement and communications from Syracuse University Office of Alumni Engagement. 
+</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -490,12 +501,12 @@
 					<div class="time">
                             <time datetime="12:00">12 Noon</time> - <time datetime="13:00">1 p.m.</time>
                         </div>
-                        <h3>Lunch with talk</h3>
+                        <h3>Lunch Keynote</h3>
                         <p>Carrier Ballroom</p>
 				</div>
 				<div class="col-sm-9">
-					<p style="padding:12px; text-align:left;">Speaker: Adam Martel, CEO and Co-founder, Gravyty</p>
-					<p style="padding:12px; text-align:left;">Over lunch, we'll hear from a former major gifts fundraiser at Babson College who saw that AI could transform the scope and impact of his work.</p>
+					<p style="padding:12px; text-align:left;">Is your database a system of record or a system of intelligence? Fundraising is an art and a science. Learn how technology can support prospect and volunteer management. </p>
+					<p style="padding:12px; text-align:left;">Adam Martel is a former major gifts fundraiser. While at Babson College he recognized how AI could transform the scope and impact of his work. He is now CEO and Co-founder, Gravyty Technologies, Inc. </p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -503,11 +514,11 @@
 					<div class="time">
                             <time datetime="13:00">1 p.m.</time> - <time datetime="15:00">3:00 p.m.</time>
                         </div>
-                        <h3>Breakout workshops by Advancement program area</h3>
+                        <h3>Breakout Workshops</h3>
                         <p>Statler breakout rooms</p>
 				</div>
 				<div class="col-sm-9">
-						<p style="padding:12px; text-align:left;">How might AI impact the work of the various Advancement program areas? In theese facilitated workshops, we'll take the concepts and terms covered in the morning sessions and apply them to our work in fundraising, alumni relations, and communications.</p>
+						<p style="padding:12px; text-align:left;">How might AI impact work in various advancement program areas? Each workshop will be facilitated by an industry professional. Learn how to apply concepts covered in the morning sessions to your work. Join discussions that focus in on fundraising, alumni relations, and communications.</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -515,11 +526,11 @@
 					<div class="time">
                             <time datetime="15:00">3:00 p.m.</time> - <time datetime="15:30">3:30 p.m.</time>
                         </div>
-                        <h3>Wrap up and next steps</h3>
+                        <h3>Summit Wrap Up</h3>
                         <p>Carrier Ballroom</p>
 				</div>
 				<div class="col-sm-9">
-						<p style="padding:12px; text-align:left;">Wrapping up the day, we'll share observations from the workshops and outline plans to keep the conversation going online.</p>
+						<p style="padding:12px; text-align:left;">Wrapping up the day, attendees are invited to share observations from the workshops. Participants from each advancement program area will share next steps. Summit organizers will reveal plans to keep the conversation going online.</p>
 				</div>
 			</div>
 			<div class="row schedule-box">
@@ -527,10 +538,13 @@
 					<div class="time">
                             <time datetime="15:45">3:45 p.m.</time> - <time datetime="17:00">5:00 p.m.</time>
                         </div>
-                        <h3>Cocktail reception</h3>
+                        <h3>Cocktail Reception</h3>
                         <p>Regents Lounge</p>
 				</div>
 				<div class="col-sm-9">
+					<p style="padding:12px; text-align:left;">
+						Join us for a post-summit cocktail in the Statler Hotel’s Regents Lounge. Summit organizers are seeking a co-sponsor for this event. Contact <a href="mailto:ash265@cornell.edu?subject=AI%20Summit%20Sponsor">Ashley Budd</a> if you are interested. 
+					</p>
 				</div>
 			</div>
     </section>
@@ -611,7 +625,7 @@
             </div>   
     </section>
 
-    <section id="faq" class="section faq">
+    <!-- <section id="faq" class="section faq">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -687,7 +701,7 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </section>  -->
 
    <!-- <section id="photos" class="section photos">
         <div class="container">
@@ -744,22 +758,20 @@
     <section id="location" class="section location">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3">
-                    <h3 class="section-title">Location</h3>
-                    <address>
-                        <p><h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
-						130 Statler Drive, Ithaca, NY 14850
-                        <br>Reservations: 1(800)541-2501
-                        <br>Fax: 607-257-6432
-                        <br>Email: statler_reserve@cornell.edu
-						</p>
-                    </address>
-				    <h4>Hotel Block</h4>
-					<p>Block Dates: 2/15-2/17
-						<br>Block Rate: $212.00 per night
-						<br>Block Cutoff: Thursday, January 25th, 2018</p>
+				<h3 class="section-title">Location</h3>
+				<p>Ithaca is in the Finger Lakes region of central New York and is easy to get to by car, train, plane or bus. <a href="http://www.visitithaca.com/travel-tips/getting-around" target="_blank">Learn more</a> </p>
+                <div class="col-sm-3">  
+                    
+					<h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
+					<br>
+					<h4>Accommodations</h4>
+					<p>We have secured a room block at The Statler Hotel for February 15-17. The rate is $212.00/night. Reserve before Thursday, January 25th, 2018.
+					<br>Reservations: 1(800)541-2501
+					<br>Email: statler_reserve@cornell.edu
+					</p>
+           
 				    <h4>Parking</h4>
-					<p>Guests staying at the Statler can valet their car. Other guests can park in <a href="https://www.cornell.edu/visit/parking/#general">visitor areas</a> on campus.</p>
+					<p>Hotel overnight guests will have access to valet. All other attendees can park in <a href="https://www.cornell.edu/visit/parking/#general">visitor areas</a> on campus.</p>
                 </div>
                 <div class="col-sm-9">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.123517071899!2d-76.48449868401558!3d42.4463879791813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d0818b0848a40f%3A0x14dd1f9150f89ebd!2sThe+Statler+Hotel+at+Cornell+University!5e0!3m2!1sen!2sus!4v1512161245826" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
