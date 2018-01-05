@@ -759,15 +759,13 @@
         <div class="container">
             <div class="row">
 				<h3 class="section-title">Location</h3>
-				<p>Ithaca is in the Finger Lakes region of central New York and is easy to get to by car, train, plane or bus. <a href="http://www.visitithaca.com/travel-tips/getting-around" target="_blank">Learn more</a> </p>
-                <div class="col-sm-3">  
-                    
-					<h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
-					<br>
+				<div class="col-sm-3">   
+					<p>Ithaca is in the Finger Lakes region of central New York and is easy to get to by car, train, plane or bus. <a href="http://www.visitithaca.com/travel-tips/getting-around" target="_blank">Learn more</a> </p>
 					<h4>Accommodations</h4>
+					<h4><a href="https://statlerhotel.cornell.edu/">The Statler Hotel at Cornell University</a></h4>
 					<p>We have secured a room block at The Statler Hotel for February 15-17. The rate is $212.00/night. Reserve before Thursday, January 25th, 2018.
 					<br>Reservations: 1(800)541-2501
-					<br>Email: statler_reserve@cornell.edu
+						<br>Email: <a href="mailto:statler_reserve@cornell.edu?subject=AI%20Summit%20Reservation">statler_reserve@cornell.edu</a>
 					</p>
            
 				    <h4>Parking</h4>
