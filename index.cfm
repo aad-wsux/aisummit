@@ -69,7 +69,7 @@
 <!--                    <li><a data-scroll href="#speakers">Speakers</a></li>              -->
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
-                    <!--<li><a data-scroll href="#sponsors">Sponsors</a></li>-->
+                    <li><a data-scroll href="#sponsors">Sponsors</a></li>
                     <!--<li><a data-scroll href="#faq">FAQ</a></li>-->
 <!--                    <li><a data-scroll href="#photos">Photos</a></li>-->
                     <li><a data-scroll href="#location">Location</a></li>
@@ -558,25 +558,25 @@
             </div>
             <div class="row">
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-1"></a>
+                    <a class="partner-box partner-box-ic" href="https://www.ithaca.edu/"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-2"></a>
+                    <a class="partner-box partner-box-keuka" href="https://www.keuka.edu/"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-3"></a>
+                    <a class="partner-box partner-box-skidmore" href="//www.skidmore.edu/"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-4"></a>
+                    <a class="partner-box partner-box-syracuse" href="https://www.syracuse.edu/"></a>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-5"></a>
+                    <a class="partner-box partner-box-union" href="https://www.union.edu/"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box partner-box-6"></a>
+                    <a class="partner-box partner-box-virginiatech" href="https://vt.edu/"></a>
                 </div>
                 <div class="col-sm-3">
                     <a class="partner-box partner-box-7"></a>
@@ -587,7 +587,7 @@
             </div>   
     </section>
         
-  <!--  <section id="sponsors" class="section partner">
+    <section id="sponsors" class="section partner">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -596,10 +596,10 @@
             </div>
             <div class="row">
                 <div class="col-sm-3">
-                    <a class="partner-box"></a>
+                    <a class="partner-box sponsor-box-evertrue" href="//www.evertrue.com/"></a>
                 </div>
                 <div class="col-sm-3">
-                    <a class="partner-box "></a>
+                    <a class="partner-box sponsor-box-hel" href="//higheredlive.com/"></a>
                 </div>
                 <div class="col-sm-3">
                     <a class="partner-box "></a>
@@ -609,7 +609,7 @@
                 </div>
             </div>
 
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-sm-3">
                     <a class="partner-box "></a>
                 </div>
@@ -622,8 +622,8 @@
                 <div class="col-sm-3">
                     <a class="partner-box "></a>
                 </div>
-            </div>   
-    </section>  -->
+            </div>   -->
+    </section>  
 
     <!-- <section id="faq" class="section faq">
         <div class="container">

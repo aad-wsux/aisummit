@@ -527,29 +527,32 @@ ul li {
 /*.partner .partner-box:hover {
   opacity: 1;
 }*/
-.partner .partner-box-1 {
+.partner .partner-box-ic {
 	background: url(../images/partner/IthacaCollege.png) no-repeat center center/contain;
   
 }
-.partner .partner-box-2 {
+.partner .partner-box-keuka {
 	background: url(../images/partner/Keuka.png) no-repeat center center/contain;  
 }
-.partner .partner-box-3 {
+.partner .partner-box-skidmore {
   background: url(../images/partner/Skidmore.svg) no-repeat center center/contain;
 }
-.partner .partner-box-4 {
+.partner .partner-box-syracuse {
   background: url(../images/partner/SYRACUSE.svg) no-repeat center center/contain;
 }
-.partner .partner-box-5 {
+.partner .partner-box-union {
   background: url(../images/partner/UnionCollege.svg) no-repeat center center/contain;
 }
-.partner .partner-box-6 {
+.partner .partner-box-virginiatech {
   background: url(../images/partner/VirginiaTech.png) no-repeat center center/contain;
 }
-.partner .partner-box-7 {
-  
+/*sponsor*/
+.partner .sponsor-box-evertrue {
+  background: url(../images/sponsor/evertrue.svg) no-repeat center center/contain;
 }
-
+.partner .sponsor-box-hel {
+  background: url(../images/sponsor/HEL.svg) no-repeat center center/contain;
+}
 /* 
  * 6.8 Section: FAQ
  */
