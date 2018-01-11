@@ -229,7 +229,7 @@ Skidmore College, Syracuse University, Union College, and Virginia Tech, and sup
                 <div class="col-sm-3">
 
                     <i class="ion-pricetags"></i>
-                    <h3>80 expected attendees</h3>
+                    <h3>100 expected attendees</h3>
                 
                 </div>
                 <div class="col-sm-3">
