@@ -66,7 +66,7 @@
                     <!-- navigation menu -->
                     <li class="active"><a data-scroll href="#">AI in Advancement Summit</a></li>
                     <li><a data-scroll href="#about">About</a></li>
-<!--                    <li><a data-scroll href="#speakers">Speakers</a></li>              -->
+                    <li><a data-scroll href="#speakers">Speakers</a></li>              
                     <li><a data-scroll href="#schedule">Schedule</a></li>                  
                     <li><a data-scroll href="#partner">Partners</a></li>                  
                     <li><a data-scroll href="#sponsors">Sponsors</a></li>
@@ -164,7 +164,33 @@
         </div><!-- container -->
     </section>
 
-    <!--- <section id="speakers" class="section speakers">
+<!--- lx58: Style for expandable bios---->     
+<style>
+/*.bio p{
+	font-size: 0.9em;
+	line-height: 1.2em;
+}*/
+.teaser{
+/*  max-width: 300px;*/
+  height: 8em; /* Fallback for non-webkit */
+  display: block; /* Fallback for non-webkit */
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;  /*WebKit Flexbox way for line clamping*/
+  overflow: hidden;
+  text-overflow: ellipsis;  /*only works for single line*/
+  text-overflow: -o-ellipsis-lastline; /*Opera browser*/
+  word-wrap:normal;
+}
+.complete{
+	height:auto;
+}
+.showmore, .showless{
+	cursor:pointer; color:#b31b1b; font-size: 0.9em;
+}
+</style>
+     
+    <section id="speakers" class="section speakers">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -175,71 +201,138 @@
             </div>
 
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="http://placehold.it/300x300">
+                            <img alt="Adam Martel" class="img-responsive center-block" src="assets/images/speakers/AdamMartel.png" width=300 height=300>
                         </figure>
 
-                        <h4>Kimberly Jones</h4>
-
-                        <p>CEO of XYZ</p>
-
-                        <ul class="social-block">
+                        <h4>Adam Martel</h4>
+						
+						<span><i>CEO of <a href="https://www.gravyty.com/" target="_blank">Gravyty</a></i></span>
+				<div class="bio-wrap">	
+					<div class="bio teaser">	
+                        <p>As a seasoned major gifts fundraiser, Adam has a deep and personal understanding of the challenges that all nonprofit organizations face while trying to raise money to support their causes. Throughout his years as a front-line fundraiser, Adam has worked with thousands of donors and has helped nonprofit organizations raise millions of dollars.</p>
+                    
+                        <p>Before his time as a fundraiser, Adam founded three companies and had a diverse and eclectic background in advertising, public relations, journalism and collegiate athletic coaching. He has also spent time as a senior financial analyst at a major investment management firm where he oversaw an international finance department that guaranteed the accuracy of approximately $50 billion dollars in international and domestic trades.</p>
+                    
+                        <p>Adam graduated from Merrimack College with a degree in Communication and Business and is an MBA candidate at Babson College. Adam lives in West Roxbury with his wife and two beautiful daughters.</p>
+						<span class="showless">Show less <i class="fa fa-caret-up" aria-hidden="true"></i></span>
+					</div>
+					<span class="showmore">Read more <i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                 </div>
+                        <!--<ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
                             <li><a href=""><i class="ion-social-facebook"></i></a></li>
                             <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
                             <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
+                        </ul>-->
 
                     </div> 
                 </div> 
 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="speaker">
 
                         <figure>
-                            <img alt="" class="img-responsive center-block" src="http://placehold.it/300x300">
+                            <img alt="Andy Monroe" class="img-responsive center-block" src="assets/images/speakers/AndyMonroe.png" width=300 height=300>
                         </figure>
 
-                        <h4>San Han-Gyong</h4>
+                        <h4>Andy Monroe</h4>
+						
+						<span><i>Software developer of <a href="https://www.brightcrowd.com/landing" target="_blank">BrightCrowd</a></i></span>
 
-                        <p>CEO of XYZ</p>
+                        <p align="left">Andy Monroe graduated from Cornell in 1999 with a B.S. in Operations Research.  He has been involved with software since age 5 and has worked with many early-stage startups including founding his own.  Most recently he has been working with BrightCrowd to help people better understand their personal and professional networks through the use of machine learning.</p>
 
-                        <ul class="social-block">
+                        <!--<ul class="social-block">
                             <li><a href=""><i class="ion-social-twitter"></i></a></li>
                             <li><a href=""><i class="ion-social-facebook"></i></a></li>
                             <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
                             <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="speaker">
-
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="http://placehold.it/300x300">
-                        </figure>
-
-                        <h4>Samira Fatemi</h4>
-
-                        <p>CEO of XYZ</p>
-
-                        <ul class="social-block">
-                            <li><a href=""><i class="ion-social-twitter"></i></a></li>
-                            <li><a href=""><i class="ion-social-facebook"></i></a></li>
-                            <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href=""><i class="ion-social-googleplus"></i></a></li>
-                        </ul>
+                        </ul>-->
 
                     </div>
                 </div>
             </div>
+			<div class="row">
+				 <div class="col-md-6">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="David B. Shmoys" class="img-responsive center-block" src="assets/images/speakers/DavidShmoys.jpg" width=300 height=300>
+                        </figure>
+
+                        <h4>David B. Shmoys</h4>
+
+						<span><i>Laibe/Acheson Professor of Business Management &amp; Leadership Studies 
+							<br><a href="http://www.orie.cornell.edu/" target="_blank">School of Operations Research and Information Engineering (ORIE)</a></i></span>
+						
+					<div class="bio-wrap">	
+  					<div class="bio teaser">	
+						<p>David Shmoys obtained his Ph.D. in Computer Science from the University of California at Berkeley in 1984, and held postdoctoral positions at MSRI in Berkeley and Harvard University, and a faculty position at MIT before joining the Cornell faculty. He is Co-Chair of the Academic Planning Committee for Cornell Tech and Associate Director of the Institute of Computational Sustainability at Cornell University.</p>
+						<p>He is a Fellow of the ACM, INFORMS, and of SIAM, was an NSF Presidential Young Investigator, and has served on numerous editorial boards, including Mathematics of Operations Research (for which he is currently an Associate Editor), Operations Research, ORSA Journal on Computing, Mathematical Programming, and the SIAM Journals of both Computing and Discrete Mathematics, where for the latter he also served as Editor-in-Chief. He has been the advisor for 21 graduated Ph.D. students, and his former students are currently on the faculties of many leading universities and research labs, including MIT, Waterloo, Brown, Maryland, Georgetown, and D-Wave.</p>
+						<p>Shmoys' research has focused on the design and analysis of efficient algorithms for discrete optimization problems, with applications including scheduling, inventory theory, computational biology, and most recently, comptuational sustainability. His work has highlighted the central role that linear programming plays in the design of approximation algorithms for NP-hard problems; his recent book, co-authored with David Williamson), The Design of Approximation Algorithms, was awarded the 2013 Lanchester Prize by INFORMS.</p>						
+					<span class="showless">Show less <i class="fa fa-caret-up" aria-hidden="true"></i></span>
+					</div>
+					<span class="showmore">Read more <i class="fa fa-caret-down" aria-hidden="true"></i></span>
+					</div>
+                    </div>
+                </div>
+				<div class="col-md-6">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Madeleine Udell" class="img-responsive center-block" src="assets/images/speakers/MadeleineUdell.jpg" width=300 height=300>
+                        </figure>
+
+                        <h4>Madeleine Udell</h4>
+
+						<span><i>Assistant Professor
+						<br>Richard and Sybil Smith Sesquicentennial Fellow
+							<br><a href="http://www.orie.cornell.edu/" target="_blank">School of Operations Research and Information Engineering (ORIE)</a></i></span>
+					<div class="bio-wrap">	
+ 					 <div class="bio teaser">	
+						<p>Madeleine Udell is Assistant Professor of Operations Research and Information Engineering and Richard and Sybil Smith Sesquicentennial Fellow at Cornell University. She studies optimization and machine learning for large scale data analysis and control, with applications in marketing, demographic modeling, medical informatics, and engineering system design.</p>
+						<p>Her research in optimization centers on detecting and exploiting novel structures in optimization problems, with a particular focus on convex and low rank problems. These structures lead the way to automatic proofs of optimality, better complexity guarantees, and faster, more memory-efficient algorithms. She has developed of a number of open source libraries for modeling and solving optimization problems, including Convex.jl, one of the top tools in the Julia language for technical computing, and is a member of the JuliaOpt organization, which curates high quality optimization software.</p>
+						<p>Her research in machine learning centers on methods for imputing missing data in large tabular data sets. Her work on generalized low rank models (GLRMs) extends principal components analysis (PCA) to embed tabular data sets with heterogeneous (numerical, Boolean, categorical, and ordinal) types into a low dimensional space, providing a coherent framework for compressing, denoising, and imputing missing entries.</p>
+						<p>Madeleine completed her PhD at Stanford University in Computational &amp; Mathematical Engineering in 2015 under the supervision of Stephen Boyd, and a one year postdoctoral fellowship at Caltech in the Center for the Mathematics of Information hosted by Professor Joel Tropp. At Stanford, she was awarded a NSF Graduate Fellowship, a Gabilan Graduate Fellowship, and a Gerald J. Lieberman Fellowship, and was selected as the doctoral student member of Stanford's School of Engineering Future Committee to develop a road-map for the future of engineering at Stanford over the next 10–20 years. She received a B.S. degree in Mathematics and Physics, summa cum laude, with honors in mathematics and in physics, from Yale University.</p>
+						<span class="showless">Show less <i class="fa fa-caret-up" aria-hidden="true"></i></span>
+					</div>
+					<span class="showmore">Read more <i class="fa fa-caret-down" aria-hidden="true"></i></span>
+					</div>
+                    </div>
+                </div>
+			</div>
+			<div class="row">
+				 <div class="col-md-6">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="Michael Greenberg" class="img-responsive center-block" src="assets/images/speakers/MichaelGreenberg.jpeg" width=300 height=300>
+                        </figure>
+
+                        <h4>Michael Greenberg</h4>
+
+						<span><i>CEO and founder of <a href="https://retina.ai/" target="_blank">Retina.ai</a></i></span>
+						
+					<div class="bio-wrap">	
+  					<div class="bio teaser">	
+						<p>Michael Greenberg is the CEO and founder of Retina.ai, a venture backed startup in California at the vanguard of cutting edge Machine Learning automation (Lead Investor: Comcast Ventures). Retina.ai counts NBC Universal and Dollar Shave Club among its current clients.</p>
+						<p>Based in Los Angeles, CA, Retina.ai offers a suite of bespoke automated algorithms focusing on fine grain customer level analytics which help you optimize sales/marketing channels (ie. Predictive LTV, Customer Seg, Time-Series Anomaly Detection, Churn, Customer Migration, etc.). We believe that with the explosion of data facing many organizations, current BI Visualization tools fail to detect or source new insights, somewhat akin to searching for a needle in a haystack. Our services are designed to help the needle find you.</p>
+						<p>Before Retina, Michael was the Michael was the CEO and Founder of ScaleFunder, a leading global crowdfunding platform, until its acquisition by Summit Partners in 2014. An official UCLA technology spinout company, revolutionizing online giving and data analysis in higher education, the ScaleFunder technology platform has grown to become the leading custom crowdfunding solution for institutions of higher education in the United States. </p>
+						<p>Prior to launching ScaleFunder, Michael was the Director of Innovation &amp; Strategic Initiatives at the University of California, Los Angeles. In this role, Michael helped to foster interdisciplinary research initiatives and establish novel funding streams.</p>
+						<p>During his tenure he helped create Startup UCLA, UCLA's first student technology accelerator. Additionally, Michael assisted in the establishment of a new X-Prize to be hosted by UCLA. He has also served as Director of Global Business Development at UCLA, where he managed and designed a portfolio of major corporate partnerships.</p>
+						<p>Michael received his B.S. in Physics with honors from Loyola University in New Orleans. </p>
+					<span class="showless">Show less <i class="fa fa-caret-up" aria-hidden="true"></i></span>
+					</div>
+					<span class="showmore">Read more <i class="fa fa-caret-down" aria-hidden="true"></i></span>
+					</div>
+                    </div>
+                </div>
+			</div>
         </div>
-    </section>  --->
+    </section>  
 
     <!--<section id="registration" class="section registration">
         <div class="container">
@@ -806,5 +899,19 @@
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
     <script src="assets/js/main.js"></script>
+<!--- lx58: script for expandable bios---->   
+<script src="https://use.fontawesome.com/04f258f048.js"></script>
+<script>
+$(document).ready(function() {
+  $(".showmore").click(function(){
+	 $(this).siblings(".bio").removeClass("teaser").addClass("complete");
+	 $(this).hide();
+ });
+ $(".showless").click(function() {
+	 $(this).parent(".bio").removeClass("complete").addClass("teaser");
+	 $(this).parent().siblings(".showmore").show();
+ });
+});
+</script>		
 </body>
 </html>
